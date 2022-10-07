@@ -5,11 +5,11 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=FanantenanaR&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=FanantenanaR&theme=tokyonight_duo&hide_border=true&fire=E94560" alt="GitHub Stats" /> <br/>
   </p>
 </div>  
 <p align=center>  
   <strong>
-      <img src='https://komarev.com/ghpvc/?username=FanantenanaR&color=FF1E1E&style=for-the-badge'>
+      <img src='https://komarev.com/ghpvc/?username=FanantenanaR&color=FF5F7E&style=for-the-badge'>
   </strong> 
 <p>
