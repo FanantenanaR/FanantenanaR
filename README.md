@@ -1,17 +1,15 @@
 > <i>"It's me, Mario."</i> 
 — Mario
 
-<!--
-**FanantenanaR/FanantenanaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=FanantenanaR&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/>
+  </p>
+</div>  
+<p align=center>  
+  <strong>
+      <img src='https://komarev.com/ghpvc/?username=FanantenanaR&color=F96666&style=for-the-badge'>
+  </strong> 
+<p>
