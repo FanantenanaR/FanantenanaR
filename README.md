@@ -10,6 +10,6 @@
 </div>  
 <p align=center>  
   <strong>
-      <img src='https://komarev.com/ghpvc/?username=FanantenanaR&color=F96666&style=for-the-badge'>
+      <img src='https://komarev.com/ghpvc/?username=FanantenanaR&color=FF1E1E&style=for-the-badge'>
   </strong> 
 <p>
