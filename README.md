@@ -2,23 +2,20 @@
 <p align="center">
 <img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" />
 </p>
-<h1 align="center">Hi ??, I'm Fanantenana</h1>
+<h1 align="center">Hey Mr Policeman, I'm Fanantenana</h1>
 <h3 align="center">A passionate developer from Madagascar</h3>
 <br/>
 
-- ?? I’m currently learning **something**
-- ?? Ask me about **everything**
-- ?? I’m looking for help with **nothing**
+-  Iâ€™m currently learning **something**
+-  Ask me about **everything**
+-  Iâ€™m looking for help with **nothing**
 
-?? Anyway, you can reach me by sending a mail to **fanantenanaran@gmail.com**.
+- Anyway, you can reach me by sending a mail to **fanantenanaran@gmail.com**.
 
-? Discord : **FanantenanaR#3650**
+- Discord : **FanantenanaR#3650**
 
-? Facebook : **Fanantenana Randriamahefa**
-
-?? Fun fact :
-> <i>"It's me, Mario."</i> 
-â€” Mario
+Fun fact :
+> <i>"It's me, Mario."</i> - Mario
 
 ---
 
